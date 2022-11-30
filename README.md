@@ -1,6 +1,6 @@
 # Data Visualization Task
 
-![Scatter Chart](https://github.com/whovishnu/data-visualization/blob/main/scatter.jpg?raw=true)
+![Scatter Chart](https://github.com/whovishnu/data-visualization/blob/main/scatter.png?raw=true)
 
 ## Dependencies
 
