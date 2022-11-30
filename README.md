@@ -1,12 +1,10 @@
 # Data Visualization Task
 
-<img alt="Scatter Chart" width="200" src="./scatter.png">
-<img alt="Bar Chart" width="200" src="./chart.png">
+<img src="https://i.ibb.co/sVbwq2C/scatter.png" alt="scatter">
+<img src="https://i.ibb.co/6X6nmSZ/chart.png" alt="chart">
 
 ## Dependencies
 
- `echarts-for-react`
- `echarts`
 
 ## Available Scripts
 
