@@ -1,9 +1,7 @@
 # Data Visualization Task
 
-![Scatter Chart](./scatter.png)
-![Bar Chart](./chart.png)
-![Scatter Chart](https://github.com/whovishnu/data-visualization/blob/main/scatter.png)
-![Bar Chart](https://github.com/whovishnu/data-visualization/blob/main/chart.png)
+<img alt="Scatter Chart" src="https://github.com/whovishnu/data-visualization/blob/main/scatter.png">
+<img alt="Bar Chart" src="https://github.com/whovishnu/data-visualization/blob/main/chart.png">
 
 ## Dependencies
 
