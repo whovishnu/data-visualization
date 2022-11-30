@@ -1,12 +1,12 @@
 # Data Visualization Task
 
-<img alt="Scatter Chart" src="https://github.com/whovishnu/data-visualization/blob/main/scatter.png">
-<img alt="Bar Chart" src="https://github.com/whovishnu/data-visualization/blob/main/chart.png">
+<img alt="Scatter Chart" width="200" src="./scatter.png">
+<img alt="Bar Chart" width="200" src="./chart.png">
 
 ## Dependencies
 
-### `echarts-for-react`
-### `echarts`
+ `echarts-for-react`
+ `echarts`
 
 ## Available Scripts
 
