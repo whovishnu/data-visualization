@@ -1,5 +1,7 @@
 # Data Visualization Task
 
+![Scatter Chart](./scatter.png)
+![Bar Chart](./chart.png)
 ![Scatter Chart](https://github.com/whovishnu/data-visualization/blob/main/scatter.png)
 ![Bar Chart](https://github.com/whovishnu/data-visualization/blob/main/chart.png)
 
@@ -13,6 +15,8 @@
 In the project directory, you can run:
 
 ### Firstly clone this repo 
+
+`git clone https://github.com/whovishnu/data-visualization.git`
 
 ### Run `npm install` or `yarn` for install dependencies
 
